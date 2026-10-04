@@ -1,0 +1,826 @@
+{
+ "favorites": [
+  "Everything Everywhere All at Once",
+  "Andor",
+  "The Shawshank Redemption",
+  "The Last of Us",
+  "Westworld",
+  "Avengers",
+  "Hamilton",
+  "Foundation",
+  "The Boys",
+  "Doctor Who",
+  "Rogue One",
+  "F1",
+  "Silicon Valley",
+  "Ted Lasso",
+  "The Expanse",
+  "Jurassic World",
+  "The Secret Life of Walter Mitty",
+  "Black Panther",
+  "Star Trek: Discovery",
+  "The Way Way Back",
+  "Star Wars",
+  "The Lord of the Rings",
+  "Marvel",
+  "Harry Potter",
+  "Breaking Bad",
+  "Game of Thrones",
+  "The Princess Bride",
+  "Monty Python",
+  "Back to the Future",
+  "The Dark Knight",
+  "Die Hard",
+  "Top Gun"
+ ],
+ "quotes": [
+  {
+   "text": "Do or do not. There is no try.",
+   "by": "Yoda, Star Wars"
+  },
+  {
+   "text": "May the Force be with you.",
+   "by": "Star Wars"
+  },
+  {
+   "text": "I find your lack of faith disturbing.",
+   "by": "Darth Vader, Star Wars"
+  },
+  {
+   "text": "Never tell me the odds!",
+   "by": "Han Solo, Star Wars"
+  },
+  {
+   "text": "In my experience there is no such thing as luck.",
+   "by": "Obi-Wan Kenobi, Star Wars"
+  },
+  {
+   "text": "The Force will be with you, always.",
+   "by": "Star Wars"
+  },
+  {
+   "text": "Size matters not.",
+   "by": "Yoda, Star Wars"
+  },
+  {
+   "text": "Wars not make one great.",
+   "by": "Yoda, Star Wars"
+  },
+  {
+   "text": "Train yourself to let go of everything you fear to lose.",
+   "by": "Yoda, Star Wars"
+  },
+  {
+   "text": "Luminous beings are we, not this crude matter.",
+   "by": "Yoda, Star Wars"
+  },
+  {
+   "text": "The greatest teacher, failure is.",
+   "by": "Yoda, Star Wars"
+  },
+  {
+   "text": "Difficult to see. Always in motion is the future.",
+   "by": "Yoda, Star Wars"
+  },
+  {
+   "text": "Your eyes can deceive you. Don't trust them.",
+   "by": "Obi-Wan Kenobi, Star Wars"
+  },
+  {
+   "text": "I have a bad feeling about this.",
+   "by": "Star Wars"
+  },
+  {
+   "text": "Stay on target.",
+   "by": "Star Wars"
+  },
+  {
+   "text": "To infinity and beyond!",
+   "by": "Buzz Lightyear, Toy Story"
+  },
+  {
+   "text": "Just keep swimming.",
+   "by": "Dory, Finding Nemo"
+  },
+  {
+   "text": "There's no place like home.",
+   "by": "Dorothy, The Wizard of Oz"
+  },
+  {
+   "text": "Toto, I've a feeling we're not in Kansas anymore.",
+   "by": "The Wizard of Oz"
+  },
+  {
+   "text": "Life is like a box of chocolates.",
+   "by": "Forrest Gump, Forrest Gump"
+  },
+  {
+   "text": "Stupid is as stupid does.",
+   "by": "Forrest Gump, Forrest Gump"
+  },
+  {
+   "text": "Run, Forrest, run!",
+   "by": "Forrest Gump, Forrest Gump"
+  },
+  {
+   "text": "You have to do the best with what God gave you.",
+   "by": "Mrs. Gump, Forrest Gump"
+  },
+  {
+   "text": "Get busy living, or get busy dying.",
+   "by": "The Shawshank Redemption"
+  },
+  {
+   "text": "Hope is a good thing, maybe the best of things.",
+   "by": "The Shawshank Redemption"
+  },
+  {
+   "text": "Fear can hold you prisoner. Hope can set you free.",
+   "by": "The Shawshank Redemption"
+  },
+  {
+   "text": "I'll be back.",
+   "by": "The Terminator, The Terminator"
+  },
+  {
+   "text": "With great power comes great responsibility.",
+   "by": "Spider-Man, Spider-Man"
+  },
+  {
+   "text": "It's not who I am underneath, but what I do that defines me.",
+   "by": "Batman Begins"
+  },
+  {
+   "text": "Why do we fall? So we can learn to pick ourselves up.",
+   "by": "Batman Begins"
+  },
+  {
+   "text": "You want to get nuts? Come on, let's get nuts!",
+   "by": "Batman, Batman (1989)"
+  },
+  {
+   "text": "If you're good at something, never do it for free.",
+   "by": "The Joker, The Dark Knight"
+  },
+  {
+   "text": "You wanna know how I got these scars?",
+   "by": "The Joker, The Dark Knight"
+  },
+  {
+   "text": "I am Iron Man.",
+   "by": "Tony Stark, Avengers: Endgame"
+  },
+  {
+   "text": "I love you 3000.",
+   "by": "Tony Stark, Avengers: Endgame"
+  },
+  {
+   "text": "Part of the journey is the end.",
+   "by": "Tony Stark, Avengers: Endgame"
+  },
+  {
+   "text": "Whatever it takes.",
+   "by": "Avengers: Endgame"
+  },
+  {
+   "text": "Avengers, assemble!",
+   "by": "Avengers: Endgame"
+  },
+  {
+   "text": "I can do this all day.",
+   "by": "Steve Rogers, Captain America"
+  },
+  {
+   "text": "On your left.",
+   "by": "Steve Rogers, Captain America"
+  },
+  {
+   "text": "That's my secret, Captain. I'm always angry.",
+   "by": "Bruce Banner, The Avengers"
+  },
+  {
+   "text": "Dormammu, I've come to bargain.",
+   "by": "Doctor Strange, Doctor Strange"
+  },
+  {
+   "text": "We never lose our demons. We only learn to live above them.",
+   "by": "The Ancient One, Doctor Strange"
+  },
+  {
+   "text": "We are Groot.",
+   "by": "Guardians of the Galaxy"
+  },
+  {
+   "text": "I am Groot.",
+   "by": "Groot, Guardians of the Galaxy"
+  },
+  {
+   "text": "Carpe diem. Seize the day, boys.",
+   "by": "Dead Poets Society"
+  },
+  {
+   "text": "No matter what anybody tells you, words and ideas can change the world.",
+   "by": "Dead Poets Society"
+  },
+  {
+   "text": "You shall not pass!",
+   "by": "Gandalf, The Lord of the Rings"
+  },
+  {
+   "text": "All we have to decide is what to do with the time that is given us.",
+   "by": "Gandalf, The Lord of the Rings"
+  },
+  {
+   "text": "Even the smallest person can change the course of the future.",
+   "by": "Galadriel, The Lord of the Rings"
+  },
+  {
+   "text": "There's some good in this world, and it's worth fighting for.",
+   "by": "Sam, The Lord of the Rings"
+  },
+  {
+   "text": "I can't carry it for you, but I can carry you.",
+   "by": "Sam, The Lord of the Rings"
+  },
+  {
+   "text": "A day may come when the courage of men fails, but it is not this day.",
+   "by": "Aragorn, The Lord of the Rings"
+  },
+  {
+   "text": "Arise, arise, Riders of Theoden!",
+   "by": "Theoden, The Lord of the Rings"
+  },
+  {
+   "text": "One does not simply walk into Mordor.",
+   "by": "Boromir, The Lord of the Rings"
+  },
+  {
+   "text": "My friends, you bow to no one.",
+   "by": "Aragorn, The Lord of the Rings"
+  },
+  {
+   "text": "I am no man.",
+   "by": "Eowyn, The Lord of the Rings"
+  },
+  {
+   "text": "Po-tay-toes! Boil 'em, mash 'em, stick 'em in a stew.",
+   "by": "Sam, The Lord of the Rings"
+  },
+  {
+   "text": "Not all those who wander are lost.",
+   "by": "J.R.R. Tolkien, The Lord of the Rings"
+  },
+  {
+   "text": "Even darkness must pass.",
+   "by": "J.R.R. Tolkien, The Lord of the Rings"
+  },
+  {
+   "text": "Faithless is he that says farewell when the road darkens.",
+   "by": "J.R.R. Tolkien, The Lord of the Rings"
+  },
+  {
+   "text": "It is our choices that show what we truly are.",
+   "by": "Dumbledore, Harry Potter"
+  },
+  {
+   "text": "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.",
+   "by": "Dumbledore, Harry Potter"
+  },
+  {
+   "text": "It does not do to dwell on dreams and forget to live.",
+   "by": "Dumbledore, Harry Potter"
+  },
+  {
+   "text": "You're a wizard, Harry.",
+   "by": "Hagrid, Harry Potter"
+  },
+  {
+   "text": "After all this time? Always.",
+   "by": "Snape, Harry Potter"
+  },
+  {
+   "text": "I solemnly swear that I am up to no good.",
+   "by": "Harry Potter and the Prisoner of Azkaban"
+  },
+  {
+   "text": "Wax on, wax off.",
+   "by": "Mr. Miyagi, The Karate Kid"
+  },
+  {
+   "text": "Get to the choppa!",
+   "by": "Predator, Predator"
+  },
+  {
+   "text": "If it bleeds, we can kill it.",
+   "by": "Predator, Predator"
+  },
+  {
+   "text": "Yippee-ki-yay.",
+   "by": "John McClane, Die Hard"
+  },
+  {
+   "text": "I feel the need... the need for speed!",
+   "by": "Maverick, Top Gun"
+  },
+  {
+   "text": "You can be my wingman anytime.",
+   "by": "Top Gun"
+  },
+  {
+   "text": "Show me the money!",
+   "by": "Jerry Maguire, Jerry Maguire"
+  },
+  {
+   "text": "You had me at hello.",
+   "by": "Jerry Maguire, Jerry Maguire"
+  },
+  {
+   "text": "Help me help you.",
+   "by": "Jerry Maguire, Jerry Maguire"
+  },
+  {
+   "text": "Nobody puts Baby in a corner.",
+   "by": "Dirty Dancing, Dirty Dancing"
+  },
+  {
+   "text": "Great Scott!",
+   "by": "Doc Brown, Back to the Future"
+  },
+  {
+   "text": "Where we're going, we don't need roads.",
+   "by": "Doc Brown, Back to the Future"
+  },
+  {
+   "text": "Your future hasn't been written yet.",
+   "by": "Back to the Future Part III"
+  },
+  {
+   "text": "If you put your mind to it, you can accomplish anything.",
+   "by": "Back to the Future"
+  },
+  {
+   "text": "This is heavy.",
+   "by": "Marty McFly, Back to the Future"
+  },
+  {
+   "text": "Life moves pretty fast. If you don't stop and look around, you could miss it.",
+   "by": "Ferris Bueller, Ferris Bueller's Day Off"
+  },
+  {
+   "text": "Bueller? Bueller?",
+   "by": "Ferris Bueller's Day Off"
+  },
+  {
+   "text": "A person should not believe in an -ism, he should believe in himself.",
+   "by": "Ferris Bueller, Ferris Bueller's Day Off"
+  },
+  {
+   "text": "It's just a flesh wound.",
+   "by": "Monty Python and the Holy Grail"
+  },
+  {
+   "text": "None shall pass.",
+   "by": "Monty Python and the Holy Grail"
+  },
+  {
+   "text": "We are the knights who say... Ni!",
+   "by": "Monty Python and the Holy Grail"
+  },
+  {
+   "text": "Nobody expects the Spanish Inquisition!",
+   "by": "Monty Python"
+  },
+  {
+   "text": "Always look on the bright side of life.",
+   "by": "Monty Python's Life of Brian"
+  },
+  {
+   "text": "What have the Romans ever done for us?",
+   "by": "Monty Python's Life of Brian"
+  },
+  {
+   "text": "Inconceivable!",
+   "by": "Vizzini, The Princess Bride"
+  },
+  {
+   "text": "Hello. My name is Inigo Montoya. You killed my father. Prepare to die.",
+   "by": "The Princess Bride"
+  },
+  {
+   "text": "As you wish.",
+   "by": "Westley, The Princess Bride"
+  },
+  {
+   "text": "Have fun storming the castle!",
+   "by": "The Princess Bride"
+  },
+  {
+   "text": "Life is pain, Highness. Anyone who says differently is selling something.",
+   "by": "The Princess Bride"
+  },
+  {
+   "text": "Here's Johnny!",
+   "by": "The Shining, The Shining"
+  },
+  {
+   "text": "All work and no play makes Jack a dull boy.",
+   "by": "The Shining, The Shining"
+  },
+  {
+   "text": "Houston, we have a problem.",
+   "by": "Apollo 13, Apollo 13"
+  },
+  {
+   "text": "Keep your friends close, but your enemies closer.",
+   "by": "The Godfather Part II"
+  },
+  {
+   "text": "I'm gonna make him an offer he can't refuse.",
+   "by": "The Godfather, The Godfather"
+  },
+  {
+   "text": "Here's looking at you, kid.",
+   "by": "Casablanca, Casablanca"
+  },
+  {
+   "text": "Frankly, my dear, I don't give a damn.",
+   "by": "Gone with the Wind, Gone with the Wind"
+  },
+  {
+   "text": "Winter is coming.",
+   "by": "Ned Stark, Game of Thrones"
+  },
+  {
+   "text": "You know nothing, Jon Snow.",
+   "by": "Ygritte, Game of Thrones"
+  },
+  {
+   "text": "Hold the door.",
+   "by": "Hodor, Game of Thrones"
+  },
+  {
+   "text": "When you play the game of thrones, you win or you die.",
+   "by": "Cersei, Game of Thrones"
+  },
+  {
+   "text": "Chaos is a ladder.",
+   "by": "Littlefinger, Game of Thrones"
+  },
+  {
+   "text": "A Lannister always pays his debts.",
+   "by": "Game of Thrones"
+  },
+  {
+   "text": "I am the one who knocks.",
+   "by": "Walter White, Breaking Bad"
+  },
+  {
+   "text": "Say my name.",
+   "by": "Walter White, Breaking Bad"
+  },
+  {
+   "text": "Yeah, science!",
+   "by": "Jesse Pinkman, Breaking Bad"
+  },
+  {
+   "text": "No more half measures.",
+   "by": "Mike Ehrmantraut, Breaking Bad"
+  },
+  {
+   "text": "You think because I'm kind that it means I'm naive. And maybe I am. It's strategic and necessary. This is how I fight.",
+   "by": "Waymond Wang, Everything Everywhere All at Once"
+  },
+  {
+   "text": "The only thing I do know is that we have to be kind. Please, be kind. Especially when we don't know what's going on.",
+   "by": "Waymond Wang, Everything Everywhere All at Once"
+  },
+  {
+   "text": "Fear leads to anger. Anger leads to hate. Hate leads to suffering.",
+   "by": "Yoda, Star Wars: Episode I"
+  },
+  {
+   "text": "Tyranny requires constant effort. It breaks, it leaks. Authority is brittle. Oppression is the mask of fear. Remember that.",
+   "by": "Karis Nemik, Andor"
+  },
+  {
+   "text": "Freedom is a pure idea. It occurs spontaneously and without instruction. Even the smallest act of insurrection pushes our lines forward.",
+   "by": "Karis Nemik, Andor"
+  },
+  {
+   "text": "The axe forgets, but the tree remembers.",
+   "by": "Arvel Skeen, Andor",
+   "note": "Based on an older proverb"
+  },
+  {
+   "text": "The distance between what is said and what is known to be true has become an abyss. When truth leaves us, we become vulnerable to the appetite of whatever monster screams the loudest.",
+   "by": "Mon Mothma, Andor"
+  },
+  {
+   "text": "Hope is a good thing, maybe the best of things. No good thing ever dies.",
+   "by": "Andy Dufresne, The Shawshank Redemption"
+  },
+  {
+   "text": "Your final moment with someone doesn't define your whole time with them.",
+   "by": "Ellie, The Last of Us",
+   "note": "Two-person exchange with Gail"
+  },
+  {
+   "text": "There's violence and chaos everywhere. But if you sit still long enough, you'll sense an ancient order. A deep peace. And that's what I choose to see.",
+   "by": "Maya, Westworld"
+  },
+  {
+   "text": "You start with something pure. Something exciting. Then come the mistakes, the compromises. We create our own demons.",
+   "by": "Tony Stark, Avengers: Age of Ultron"
+  },
+  {
+   "text": "Dying is easy, son. Living is harder.",
+   "by": "Aaron Burr, Hamilton"
+  },
+  {
+   "text": "I embrace regrets. I want to remember the view from the top of the mountain, even if that means I also have to remember the fall.",
+   "by": "Brother Dusk, Foundation"
+  },
+  {
+   "text": "Since when did hopeful and naive become the same thing?",
+   "by": "Starlight, The Boys"
+  },
+  {
+   "text": "Hate is always foolish, and love is always wise. Always try to be nice, but never fail to be kind.",
+   "by": "The Twelfth Doctor, Doctor Who"
+  },
+  {
+   "text": "One fighter with a sharp stick and nothing left to lose can take the day.",
+   "by": "Jyn Erso, Rogue One",
+   "note": "Quoting Saw Gerrera"
+  },
+  {
+   "text": "Don't be shitty to yourself. There's plenty of people out there that'll do that for you.",
+   "by": "Sonny Hayes, F1"
+  },
+  {
+   "text": "I think we did okay.",
+   "by": "Richard Hendricks, Silicon Valley"
+  },
+  {
+   "text": "Be a goldfish.",
+   "by": "Ted Lasso, Ted Lasso"
+  },
+  {
+   "text": "All them fellas that used to belittle me, not a single one of them were curious.",
+   "by": "Ted Lasso, Ted Lasso"
+  },
+  {
+   "text": "Be curious, not judgmental.",
+   "by": "Ted Lasso, Ted Lasso",
+   "note": "Popularized by Ted Lasso; earliest documented 1986, misattributed to Walt Whitman"
+  },
+  {
+   "text": "Hate is a burden. You don't have to carry it with you.",
+   "by": "Rev. Dr. Anna Volovodov, The Expanse"
+  },
+  {
+   "text": "The key to happiness in life is knowing you are never really in control.",
+   "by": "Claire Dearing, Jurassic World"
+  },
+  {
+   "text": "To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life.",
+   "by": "Walter Mitty, The Secret Life of Walter Mitty",
+   "note": "Reciting LIFE magazine's motto"
+  },
+  {
+   "text": "Just because something works doesn't mean it can't be improved.",
+   "by": "Shuri, Black Panther"
+  },
+  {
+   "text": "Mom, you said that the biggest problem in the universe is no one helps each other.",
+   "by": "Anakin Skywalker, Star Wars: Episode I",
+   "note": "Recalling Shmi Skywalker's words"
+  },
+  {
+   "text": "Universal law is for lackeys. Context is for kings.",
+   "by": "Captain Gabriel Lorca, Star Trek: Discovery"
+  },
+  {
+   "text": "Don't die wondering, man.",
+   "by": "Duncan, The Way Way Back"
+  },
+  {
+   "text": "Good men fight for bad causes. Everyone is convinced they're on the side of the angels.",
+   "by": "Mitchell, Call of Duty: Advanced Warfare",
+   "note": "Video game"
+  },
+  {
+   "text": "With cheating death comes clarity. You experience the present as a culmination of every decision you've made.",
+   "by": "Mitchell, Call of Duty: Advanced Warfare",
+   "note": "Video game"
+  },
+  {
+   "text": "In the moment when I truly understand my enemy, understand him well enough to defeat him, then in that very moment I also love him.",
+   "by": "Ender Wiggin, Ender's Game",
+   "note": "Book"
+  },
+  {
+   "text": "Do not go gentle into that good night.",
+   "by": "Dylan Thomas",
+   "note": "Poem, 1951"
+  },
+  {
+   "text": "The proper function of man is to live, not to exist. I shall not waste my days in trying to prolong them. I shall use my time.",
+   "by": "Jack London",
+   "note": "Credo"
+  },
+  {
+   "text": "We all die. The goal isn't to live forever, the goal is to create something that will.",
+   "by": "Chuck Palahniuk",
+   "note": "Diary, 2003"
+  },
+  {
+   "text": "To err and err and err again, but less and less and less.",
+   "by": "Piet Hein"
+  },
+  {
+   "text": "Are you guys ready? Okay. Let's roll.",
+   "by": "Todd Beamer",
+   "note": "United Airlines Flight 93, September 11, 2001"
+  },
+  {
+   "text": "Circumstance does not make the man; it reveals him to himself.",
+   "by": "James Allen",
+   "note": "As a Man Thinketh, 1903"
+  },
+  {
+   "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+   "by": "George F. Tilton",
+   "note": "Frequently misattributed to Winston Churchill"
+  },
+  {
+   "text": "To every man upon this earth, death cometh soon or late; and how can man die better than facing fearful odds, for the ashes of his fathers and the temples of his gods?",
+   "by": "Thomas Babington Macaulay",
+   "note": "Horatius, 1842"
+  },
+  {
+   "text": "Education is our passport to the future, for tomorrow belongs to those who prepare for it today.",
+   "by": "Malcolm X",
+   "note": "1964"
+  },
+  {
+   "text": "We are our choices.",
+   "by": "Jean-Paul Sartre"
+  },
+  {
+   "text": "You may delay, but time will not.",
+   "by": "Benjamin Franklin"
+  },
+  {
+   "text": "The way to get started is to quit talking and begin doing.",
+   "by": "Walt Disney",
+   "note": "Commonly attributed"
+  },
+  {
+   "text": "Do the best you can until you know better. Then when you know better, do better.",
+   "by": "Maya Angelou"
+  },
+  {
+   "text": "Nothing in life is to be feared; it is only to be understood. Now is the time to understand more, so that we may fear less.",
+   "by": "Marie Curie"
+  },
+  {
+   "text": "One can never consent to creep when one feels an impulse to soar.",
+   "by": "Helen Keller"
+  },
+  {
+   "text": "Injustice anywhere is a threat to justice everywhere.",
+   "by": "Martin Luther King Jr.",
+   "note": "Letter from Birmingham Jail, 1963"
+  },
+  {
+   "text": "If you want to change the world, start off by making your bed.",
+   "by": "Admiral William H. McRaven",
+   "note": "UT Austin commencement, 2014"
+  },
+  {
+   "text": "If you want to change the world, measure a person by the size of their heart, not by the size of their flippers.",
+   "by": "Admiral William H. McRaven",
+   "note": "UT Austin commencement, 2014"
+  },
+  {
+   "text": "Freedom is a fragile thing and is never more than one generation away from extinction.",
+   "by": "Ronald Reagan"
+  },
+  {
+   "text": "From these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion.",
+   "by": "Abraham Lincoln",
+   "note": "Gettysburg Address, 1863"
+  },
+  {
+   "text": "Slow is smooth, and smooth is fast.",
+   "by": "Military maxim",
+   "note": "Associated with U.S. special operations / Navy SEAL training"
+  },
+  {
+   "text": "Every individual on the planet makes an impact every day.",
+   "by": "Jane Goodall"
+  },
+  {
+   "text": "Forgiveness is the only way to reverse the irreversible flow of history.",
+   "by": "Hannah Arendt",
+   "note": "Attributed"
+  },
+  {
+   "text": "If you want revenge, dig two graves.",
+   "by": "Traditional proverb",
+   "note": "Claimed Chinese or Japanese origin"
+  },
+  {
+   "text": "Life isn't about finding yourself; it's about creating yourself.",
+   "by": "George Bernard Shaw",
+   "note": "Commonly attributed"
+  },
+  {
+   "text": "Never make a permanent decision based on a temporary emotion.",
+   "by": "Unknown",
+   "note": "Commonly attributed online to Omar Khayyam"
+  },
+  {
+   "text": "Be kind, for everyone you meet is fighting a hard battle.",
+   "by": "Ian Maclaren",
+   "note": "Modern paraphrase; 1897 wording: 'Be pitiful, for every man is fighting a hard battle'"
+  },
+  {
+   "text": "Make decisions that are intuitive, decisive, and fearless.",
+   "by": "Ender's Game",
+   "note": "Paraphrase of ideas associated with Ender Wiggin; not verified as direct quotation"
+  },
+  {
+   "text": "Stop fighting infinity, it's peaceful.",
+   "by": "Unknown",
+   "note": "Source unknown — unverified"
+  },
+  {
+   "text": "It's a great thing to stumble in the dark rather than analyze and analyze and not start anything.",
+   "by": "Xerxes",
+   "note": "Attributed; source not verified"
+  },
+  {
+   "text": "Make a difference to one crab.",
+   "by": "Unknown",
+   "note": "Variation on the starfish story — unverified"
+  },
+  {
+   "text": "When we seek to destroy others, we often hurt ourself because it is the self that wants to be destroyed.",
+   "by": "Unknown",
+   "note": "Source unknown — unverified"
+  },
+  {
+   "text": "There are some things that are unknowable. That is God. That is spirit.",
+   "by": "Unknown",
+   "note": "Source unknown — unverified"
+  },
+  {
+   "text": "Our obsession with what's wrong brings more wrong. The easiest way to dissect success is through gratitude.",
+   "by": "Matt M",
+   "note": "Original source not verified"
+  },
+  {
+   "text": "Those who don't serve are the ones fooled by the belief that the world can be changed by ideas alone.",
+   "by": "Three Days of the Condor",
+   "note": "Appears to be paraphrase rather than verified dialogue"
+  },
+  {
+   "text": "Find someone that when you throw the towel in, they throw it back to you.",
+   "by": "Unknown",
+   "note": "Common saying; original source unknown"
+  },
+  {
+   "text": "Killing someone doesn't absolve them of the things they've done. Justice can only do that.",
+   "by": "The Expanse",
+   "note": "Speaker and episode not independently verified"
+  }
+ ],
+ "facts": [
+  "Honey never spoils. Archaeologists have tasted 3,000-year-old honey from Egyptian tombs — perfectly edible.",
+  "Octopuses have three hearts, and two of them stop beating when they swim.",
+  "A group of flamingos is called a flamboyance.",
+  "The Eiffel Tower grows about 15 cm taller in summer as the iron expands.",
+  "Bananas are berries. Strawberries are not.",
+  "Sharks have existed for 450 million years — trees showed up 50 million years later.",
+  "Your body produces about 25 million new cells every second.",
+  "Cleopatra lived closer in time to the Moon landing than to the building of the pyramids.",
+  "Wombat poop is cube-shaped. Scientists are still a little delighted by this.",
+  "There is enough DNA in your body to stretch to the Sun and back more than 60 times.",
+  "Hot water can freeze faster than cold water. It is called the Mpemba effect.",
+  "The dot over the lowercase 'i' has a name: a tittle.",
+  "Sea otters hold hands while they sleep so they do not drift apart.",
+  "The first oranges grown were green, not orange.",
+  "A single puffy cloud can weigh more than a million pounds.",
+  "Oxford University is older than the Aztec Empire.",
+  "Sound travels about four times faster in water than in air.",
+  "The inventor of the Pringles can had his ashes buried in one.",
+  "A day on Venus is longer than its year.",
+  "Your nose can remember around 50,000 different scents.",
+  "The Great Wall of China is partly held together with sticky rice mortar.",
+  "Cows have best friends and get stressed when they are separated.",
+  "The human brain runs on about 20 watts — enough to power a dim light bulb.",
+  "A day on Mercury lasts 176 Earth days. The weekends must feel endless."
+ ]
+}
