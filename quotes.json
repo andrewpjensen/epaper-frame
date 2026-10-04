@@ -43,10 +43,6 @@
    "by": "Star Wars"
   },
   {
-   "text": "I find your lack of faith disturbing.",
-   "by": "Darth Vader, Star Wars"
-  },
-  {
    "text": "Never tell me the odds!",
    "by": "Han Solo, Star Wars"
   },
@@ -83,14 +79,6 @@
    "by": "Yoda, Star Wars"
   },
   {
-   "text": "Your eyes can deceive you. Don't trust them.",
-   "by": "Obi-Wan Kenobi, Star Wars"
-  },
-  {
-   "text": "I have a bad feeling about this.",
-   "by": "Star Wars"
-  },
-  {
    "text": "Stay on target.",
    "by": "Star Wars"
   },
@@ -112,10 +100,6 @@
   },
   {
    "text": "Life is like a box of chocolates.",
-   "by": "Forrest Gump, Forrest Gump"
-  },
-  {
-   "text": "Stupid is as stupid does.",
    "by": "Forrest Gump, Forrest Gump"
   },
   {
@@ -159,14 +143,6 @@
    "by": "Batman, Batman (1989)"
   },
   {
-   "text": "If you're good at something, never do it for free.",
-   "by": "The Joker, The Dark Knight"
-  },
-  {
-   "text": "You wanna know how I got these scars?",
-   "by": "The Joker, The Dark Knight"
-  },
-  {
    "text": "I am Iron Man.",
    "by": "Tony Stark, Avengers: Endgame"
   },
@@ -193,10 +169,6 @@
   {
    "text": "On your left.",
    "by": "Steve Rogers, Captain America"
-  },
-  {
-   "text": "That's my secret, Captain. I'm always angry.",
-   "by": "Bruce Banner, The Avengers"
   },
   {
    "text": "Dormammu, I've come to bargain.",
@@ -311,10 +283,6 @@
    "by": "Predator, Predator"
   },
   {
-   "text": "If it bleeds, we can kill it.",
-   "by": "Predator, Predator"
-  },
-  {
    "text": "Yippee-ki-yay.",
    "by": "John McClane, Die Hard"
   },
@@ -403,10 +371,6 @@
    "by": "Vizzini, The Princess Bride"
   },
   {
-   "text": "Hello. My name is Inigo Montoya. You killed my father. Prepare to die.",
-   "by": "The Princess Bride"
-  },
-  {
    "text": "As you wish.",
    "by": "Westley, The Princess Bride"
   },
@@ -415,76 +379,24 @@
    "by": "The Princess Bride"
   },
   {
-   "text": "Life is pain, Highness. Anyone who says differently is selling something.",
-   "by": "The Princess Bride"
-  },
-  {
-   "text": "Here's Johnny!",
-   "by": "The Shining, The Shining"
-  },
-  {
-   "text": "All work and no play makes Jack a dull boy.",
-   "by": "The Shining, The Shining"
-  },
-  {
    "text": "Houston, we have a problem.",
    "by": "Apollo 13, Apollo 13"
-  },
-  {
-   "text": "Keep your friends close, but your enemies closer.",
-   "by": "The Godfather Part II"
-  },
-  {
-   "text": "I'm gonna make him an offer he can't refuse.",
-   "by": "The Godfather, The Godfather"
   },
   {
    "text": "Here's looking at you, kid.",
    "by": "Casablanca, Casablanca"
   },
   {
-   "text": "Frankly, my dear, I don't give a damn.",
-   "by": "Gone with the Wind, Gone with the Wind"
-  },
-  {
    "text": "Winter is coming.",
    "by": "Ned Stark, Game of Thrones"
-  },
-  {
-   "text": "You know nothing, Jon Snow.",
-   "by": "Ygritte, Game of Thrones"
   },
   {
    "text": "Hold the door.",
    "by": "Hodor, Game of Thrones"
   },
   {
-   "text": "When you play the game of thrones, you win or you die.",
-   "by": "Cersei, Game of Thrones"
-  },
-  {
-   "text": "Chaos is a ladder.",
-   "by": "Littlefinger, Game of Thrones"
-  },
-  {
-   "text": "A Lannister always pays his debts.",
-   "by": "Game of Thrones"
-  },
-  {
-   "text": "I am the one who knocks.",
-   "by": "Walter White, Breaking Bad"
-  },
-  {
-   "text": "Say my name.",
-   "by": "Walter White, Breaking Bad"
-  },
-  {
    "text": "Yeah, science!",
    "by": "Jesse Pinkman, Breaking Bad"
-  },
-  {
-   "text": "No more half measures.",
-   "by": "Mike Ehrmantraut, Breaking Bad"
   },
   {
    "text": "You think because I'm kind that it means I'm naive. And maybe I am. It's strategic and necessary. This is how I fight.",
@@ -727,11 +639,6 @@
    "note": "Attributed"
   },
   {
-   "text": "If you want revenge, dig two graves.",
-   "by": "Traditional proverb",
-   "note": "Claimed Chinese or Japanese origin"
-  },
-  {
    "text": "Life isn't about finding yourself; it's about creating yourself.",
    "by": "George Bernard Shaw",
    "note": "Commonly attributed"
@@ -752,11 +659,6 @@
    "note": "Paraphrase of ideas associated with Ender Wiggin; not verified as direct quotation"
   },
   {
-   "text": "Stop fighting infinity, it's peaceful.",
-   "by": "Unknown",
-   "note": "Source unknown — unverified"
-  },
-  {
    "text": "It's a great thing to stumble in the dark rather than analyze and analyze and not start anything.",
    "by": "Xerxes",
    "note": "Attributed; source not verified"
@@ -765,11 +667,6 @@
    "text": "Make a difference to one crab.",
    "by": "Unknown",
    "note": "Variation on the starfish story — unverified"
-  },
-  {
-   "text": "When we seek to destroy others, we often hurt ourself because it is the self that wants to be destroyed.",
-   "by": "Unknown",
-   "note": "Source unknown — unverified"
   },
   {
    "text": "There are some things that are unknowable. That is God. That is spirit.",
@@ -782,19 +679,37 @@
    "note": "Original source not verified"
   },
   {
-   "text": "Those who don't serve are the ones fooled by the belief that the world can be changed by ideas alone.",
-   "by": "Three Days of the Condor",
-   "note": "Appears to be paraphrase rather than verified dialogue"
-  },
-  {
    "text": "Find someone that when you throw the towel in, they throw it back to you.",
    "by": "Unknown",
    "note": "Common saying; original source unknown"
   },
   {
-   "text": "Killing someone doesn't absolve them of the things they've done. Justice can only do that.",
-   "by": "The Expanse",
-   "note": "Speaker and episode not independently verified"
+   "text": "The whole point of what we do... is that no one should have that kind of power.",
+   "by": "Mother's Milk, The Boys"
+  },
+  {
+   "text": "In 900 years of time and space, I've never met anyone who wasn't important.",
+   "by": "The Eleventh Doctor, Doctor Who"
+  },
+  {
+   "text": "I am and always will be the optimist. The hoper of far-flung hopes and the dreamer of improbable dreams.",
+   "by": "The Eleventh Doctor, Doctor Who"
+  },
+  {
+   "text": "Courage isn't just a matter of not being frightened, you know. It's being afraid and doing what you have to do anyway.",
+   "by": "The Third Doctor, Doctor Who"
+  },
+  {
+   "text": "Rebellions are built on hope.",
+   "by": "Cassian Andor, Rogue One"
+  },
+  {
+   "text": "I am one with the Force, and the Force is with me.",
+   "by": "Chirrut Îmwe, Rogue One"
+  },
+  {
+   "text": "Save the Rebellion! Save the dream!",
+   "by": "Saw Gerrera, Rogue One"
   }
  ],
  "facts": [
@@ -821,6 +736,11 @@
   "The Great Wall of China is partly held together with sticky rice mortar.",
   "Cows have best friends and get stressed when they are separated.",
   "The human brain runs on about 20 watts — enough to power a dim light bulb.",
-  "A day on Mercury lasts 176 Earth days. The weekends must feel endless."
+  "A day on Mercury lasts 176 Earth days. The weekends must feel endless.",
+  "The shortest war in history lasted about 38 minutes: the Anglo-Zanzibar War of 1896.",
+  "A shrimp's heart is in its head.",
+  "Scotland's national animal is the unicorn.",
+  "The first item ever scanned with a barcode was a pack of Wrigley's chewing gum, in 1974.",
+  "Astronauts can grow up to 2 inches taller in space as their spines stretch without gravity."
  ]
 }
