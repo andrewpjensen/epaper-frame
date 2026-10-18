@@ -688,6 +688,42 @@
     {
       "text": "Racing is life. Anything before or after is just waiting.",
       "by": "Steve McQueen, Le Mans"
+    },
+    {
+      "text": "Be careful not to choke on your aspirations, Director.",
+      "by": "Darth Vader, Rogue One"
+    },
+    {
+      "text": "I don't need luck. I have you!",
+      "by": "Chirrut Îmwe, Rogue One"
+    },
+    {
+      "text": "Congratulations on being rescued.",
+      "by": "K-2SO, Rogue One"
+    },
+    {
+      "text": "Three laps! Three laps is a lifetime!",
+      "by": "Sonny Hayes, F1"
+    },
+    {
+      "text": "If the last thing I do is drive that car, I will take that life, man — a thousand times.",
+      "by": "Sonny Hayes, F1"
+    },
+    {
+      "text": "Drive fast.",
+      "by": "Sonny Hayes, F1"
+    },
+    {
+      "text": "There is a linear correlation between how intolerable I was and the valuation!",
+      "by": "Erlich Bachman, Silicon Valley"
+    },
+    {
+      "text": "Shuttering a company in the tech world is almost a rite of passage, like herpes simplex one.",
+      "by": "Erlich Bachman, Silicon Valley"
+    },
+    {
+      "text": "I don't want to live in a world where someone else is making the world a better place better than we are.",
+      "by": "Richard Hendricks, Silicon Valley"
     }
   ],
   "facts": [
@@ -724,6 +760,10 @@
     "There are more possible games of chess than there are atoms in the observable universe.",
     "Platypuses have no nipples — mothers secrete milk through pores in their skin, and the babies lap it up.",
     "The smell of fresh-cut grass is actually a distress signal: the plant warning its neighbors it's been damaged.",
-    "A group of owls is called a parliament."
+    "A group of owls is called a parliament.",
+    "Dolphins give each other names: each bottlenose dolphin invents a unique signature whistle in its first year, and other dolphins learn and remember it for life.",
+    "An original Game Boy that survived a barracks bombing during the Gulf War still ran Tetris afterward. It spent decades on display at Nintendo's New York store.",
+    "The first computer bug was an actual bug: in 1947 engineers found a real moth inside Harvard's Mark II computer and taped it into the logbook.",
+    "On Venus, the Sun rises in the west and sets in the east, because the planet spins backwards."
   ]
 }
